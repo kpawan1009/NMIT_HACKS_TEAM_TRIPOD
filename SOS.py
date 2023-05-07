@@ -21,7 +21,7 @@ message="The Person is in risk ,go and help him , his last location "+str
 payload = "message="+message+"&language=english&route=q&numbers=9801777249"
 
 headers = {
-'authorization': "tUAB1DLHKTHSr5tu8hhmVnCqkKSLQQleEMOXHm8WmSVKR37fZdTu0KfetqRm",
+'authorization': "key",
 'Content-Type': "application/x-www-form-urlencoded",
 'Cache-Control': "no-cache"
 }
